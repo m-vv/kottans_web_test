@@ -5,7 +5,7 @@
 - Configuring Linux Web Servers
 ![](ConfiguringLinuxWebServers_finished.png)
 - Networking for Web Developers
-
+![](ConfiguringLinuxWebServers_finished.png)
 
 
 ## additional part
