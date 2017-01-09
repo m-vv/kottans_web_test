@@ -1,5 +1,6 @@
 # Task 2 (HTML and CSS basics + JS basics)
 ## main part
+-[Freecodecamp account](https://www.freecodecamp.com/m-vv)
 
 
 
