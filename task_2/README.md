@@ -1,7 +1,7 @@
 # Task 2 (HTML and CSS basics + JS basics)
 ## main part
--[Freecodecamp account](https://www.freecodecamp.com/m-vv)
--[Trivial Quiz](https://github.com/m-vv/TriviaQuizForKottans)
+- [Freecodecamp account](https://www.freecodecamp.com/m-vv)
+- [Trivial Quiz](https://github.com/m-vv/TriviaQuizForKottans)
 
 
 
