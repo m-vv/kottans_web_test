@@ -2,6 +2,8 @@
 ## main part
 - Try Ruby
 ![Try Ruby](TryRuby_finished.png)
+- Ruby in Twenty Minutes
+![Ruby in 20](Ruby_in_20_minutes.png)
 - Intro to Computer Science
 ![udacity.com cs101](udacity.comCS101_part1.png)
 
