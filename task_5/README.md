@@ -7,8 +7,8 @@
 - [Working application deployed on Heroku for hello app](https://ancient-garden-55641.herokuapp.com/)
 
 ### toy_app
-- [repository with source code for toy app ](https://github.com/m-vv/railsTut4ed_hello_app)
-- [Working application deployed on Heroku for toy app in current state](https://ancient-garden-55641.herokuapp.com/)
+- [repository with source code for toy app ](https://github.com/m-vv/railsTut4ed_toy_app)
+- [Working application deployed on Heroku for toy app in current state](https://murmuring-hollows-11978.herokuapp.com/)
 
 
 ### sample_app
