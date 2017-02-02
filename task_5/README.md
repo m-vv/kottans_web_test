@@ -8,9 +8,10 @@
 
 ### toy_app
 - [repository with source code for toy app ](https://github.com/m-vv/railsTut4ed_toy_app)
-- [Working application deployed on Heroku for toy app in current state](https://murmuring-hollows-11978.herokuapp.com/)
+- [Working application deployed on Heroku for toy app](https://murmuring-hollows-11978.herokuapp.com/)
 
 
 ### sample_app
-
+- [repository with source code for sample app ](https://github.com/m-vv/railsTut4ed_sample_app)
+- [Working application deployed on Heroku for toy app in current state](https://agile-dawn-99285.herokuapp.com)
 
