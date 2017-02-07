@@ -6,7 +6,7 @@
 
 ![Ruby in 20](Ruby_in_20_minutes.png)
 - Codecademy Ruby
-- ![Codecademy Ruby](codecademy_ruby_part.png)
+- ![Codecademy Ruby](codecademy_ruby_finished.png)
 - Intro to Computer Science
 ![udacity.com cs101](udacity.comCS101_part1.png)
 
